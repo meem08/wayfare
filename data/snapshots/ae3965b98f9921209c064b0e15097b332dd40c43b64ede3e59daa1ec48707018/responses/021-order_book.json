@@ -1,0 +1,88 @@
+{
+  "bids": [
+    {
+      "price_r": {
+        "n": 1318,
+        "d": 75
+      },
+      "price": "17.5733333",
+      "amount": "1249.9999990"
+    },
+    {
+      "price_r": {
+        "n": 4299,
+        "d": 245
+      },
+      "price": "17.5469388",
+      "amount": "2499.9999986"
+    },
+    {
+      "price_r": {
+        "n": 7223,
+        "d": 432
+      },
+      "price": "16.7199074",
+      "amount": "9999.9999997"
+    },
+    {
+      "price_r": {
+        "n": 1,
+        "d": 2147483647
+      },
+      "price": "0.0000000",
+      "amount": "0.0000002"
+    }
+  ],
+  "asks": [
+    {
+      "price_r": {
+        "n": 55578,
+        "d": 3151
+      },
+      "price": "17.6382101",
+      "amount": "75.0000000"
+    },
+    {
+      "price_r": {
+        "n": 101342,
+        "d": 5737
+      },
+      "price": "17.6646331",
+      "amount": "150.0000000"
+    },
+    {
+      "price_r": {
+        "n": 149161,
+        "d": 8066
+      },
+      "price": "18.4925614",
+      "amount": "600.0000000"
+    },
+    {
+      "price_r": {
+        "n": 5000000,
+        "d": 2799
+      },
+      "price": "1786.3522687",
+      "amount": "16.0000000"
+    },
+    {
+      "price_r": {
+        "n": 5000000,
+        "d": 317
+      },
+      "price": "15772.8706625",
+      "amount": "8.0000000"
+    }
+  ],
+  "base": {
+    "asset_type": "credit_alphanum4",
+    "asset_code": "USDC",
+    "asset_issuer": "GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN"
+  },
+  "counter": {
+    "asset_type": "credit_alphanum4",
+    "asset_code": "ZARZ",
+    "asset_issuer": "GAROH4EV3WVVTRQKEY43GZK3XSRBEYETRVZ7SVG5LHWOAANSMCTJBB3U"
+  }
+}
